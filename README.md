@@ -1,2 +1,5 @@
-# -Death-Marble-
-죽음의 마블, 모든 수단을 동원하여 그저 죽이는 것에만 집중하라!앞에 있는 저 녀석을.... 저놈도! 
+# 💀 Death Marble 💀
+죽음의 마블, 모든 수단을 동원하여 그저 죽이는 것에만 집중하라! 앞에 있는 저 녀석을.... 저놈도! 싸그리!
+```
+Released Version [Beta v0.1] / https://github.com/Ovie-hex/-Death-Marble-/releases/tag/Beta
+```
